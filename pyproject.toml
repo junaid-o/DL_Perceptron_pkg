@@ -2,9 +2,10 @@
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
+
 [project]
 name = "perceptron_pkg"
-version = "0.0.1"
+version = "0.0.2"
 authors = [{name = "junaid", email = "junaid@example.com"}]
 description = "A small package for perceptron"
 readme = "README.md"
