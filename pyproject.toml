@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "perceptron_pkg"
+name = "perceptron_pkg_junaid-o"
 version = "0.0.3"
 authors = [{name = "junaid-o"}]
 description = "A small package for perceptron"
