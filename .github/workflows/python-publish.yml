@@ -39,3 +39,4 @@ jobs:
       with:
         user: junaid-o
         password: ${{ secrets.PYPI_API_TOKEN }}
+        verbose: true
