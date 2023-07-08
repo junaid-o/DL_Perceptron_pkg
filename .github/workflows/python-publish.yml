@@ -15,7 +15,7 @@ on:
     - main
 
 permissions:
-  contents: upload
+  contents: read
 
 jobs:
   deploy:
