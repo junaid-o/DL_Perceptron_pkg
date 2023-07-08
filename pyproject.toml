@@ -1,21 +1,3 @@
 [build-system]
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
-
-
-[project]
-name = "perceptron_pkg"
-version = "0.0.2"
-authors = [{name = "junaid", email = "junaid@example.com"}]
-description = "A small package for perceptron"
-readme = "README.md"
-requires-python = ">=3.10"
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
-    "Operating System :: OS Independent"
-]
-
-[project.urls]
-"Homepage" = "https://github.com/junaid-o/DL_Perceptron_pkg"
-"Bug Tracker" = "https://github.com/junaid-o/DL_Perceptron_pkg/issues"
