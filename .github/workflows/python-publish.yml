@@ -13,9 +13,6 @@ on:
     branch:
     - main
 
-permissions:
-  contents: read
-
 jobs:
   deploy:
 
